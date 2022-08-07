@@ -1,0 +1,42 @@
+.groups {
+    display: flex;
+    margin: 230px 5px 0px 5px;
+    padding: 5px;
+    background: "#F4F7FC" !important;
+
+}
+
+.group {
+    margin:0px 2px;
+    padding: 0px;
+    min-height: 300px;
+    min-width: 475px;
+
+}
+
+.title {
+    color: white;
+    padding: 0;
+    margin-top: 0;
+    position: fixed;
+
+
+}
+
+
+.item {
+    color: blue;
+    margin: 15px;
+    padding: 5px;
+    border: 2px green;
+    cursor: grab;
+}
+
+.notAllowed {
+    background-color: yellow;
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+    border: 2px green;
+    cursor: not-allowed;
+}

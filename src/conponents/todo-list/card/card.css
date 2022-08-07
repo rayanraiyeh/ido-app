@@ -1,0 +1,57 @@
+.Label {
+ font-size: 16px !important;
+ font-weight: bold !important;
+ padding-bottom: 10px;
+}
+
+.Category-label {
+    width:25%;
+    color: #6C757D;
+
+}
+
+.Due-date-label {
+    width:32%;
+
+    color: #6C757D;
+}
+
+.Estimate-label {
+    width:30%;
+
+    color: #6C757D;
+}
+
+.Importance-label {
+    width:50%;
+
+    color: #6C757D;
+}
+
+.Category {
+  color: #000000; 
+  text-align: left;
+  width:66%
+}
+
+.Due-date {
+    width:51%;
+
+    color: #000000; 
+    text-align: left;}
+
+.Estimate {
+    width:50%;
+
+    color: #000000; 
+    text-align: left;}
+
+.Importance {
+    width:30%;
+    color: #ffffff; 
+    text-align: left; 
+    text-align: center;   
+    border-radius: 5px;
+    padding: 4px 3px;
+    margin: -3px 0px 0px -10px !important;
+}
